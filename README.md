@@ -3,6 +3,5 @@
 To use: 
 
 ```
-> cd lib
-> ruby prime_numbers.rb 10
+> ruby lib/prime_numbers.rb 10
 ```
